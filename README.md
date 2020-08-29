@@ -1,4 +1,4 @@
-# Books Consumer
+# Books Service
 ## Description
 
 Exposes APIs to perform CRUD operations on books.
